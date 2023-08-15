@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1df74796-c25a-48a8-93bc-e59d9e15f608" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/telran/measure/Length.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/telran/measure/LengthUnit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/telran/measure/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/telran/measure/WeightUnit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/telran/time/DayOfWeek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/telran/time/TypeDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/telran/measure/LengthTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/telran/measure/WeightUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/telran/time/DayOfWeekTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2U1fzoqmgUIZEHu3mUsEuNIlVxl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="telran.time" />
+      <recent name="telran.measure" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.WeightUnitTest">
+    <configuration name="LengthTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="enumerations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="telran.measure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="telran.measure" />
+      <option name="MAIN_CLASS_NAME" value="telran.measure.LengthTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeightUnitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="enumerations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="telran.measure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="telran.measure" />
+      <option name="MAIN_CLASS_NAME" value="telran.measure.WeightUnitTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.WeightUnitTest" />
+        <item itemvalue="JUnit.LengthTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1df74796-c25a-48a8-93bc-e59d9e15f608" name="Changes" comment="" />
+      <created>1692112271951</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692112271951</updated>
+    </task>
+    <servers />
+  </component>
+</project>
